@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm Christian
 
 ## 🚀 About Me  
 I'm an **aspiring Data Scientist, Data Engineer, and AI Engineer** with a strong foundation in **Mathematics** and a minor in **Digital Data Studies** (graduating May 2025).  
