@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Christian
 
 ## 🚀 About Me  
-I'm an **Data Analyst** with a strong foundation in **Mathematics, AI, and Data Pipelines**.  
+I'm an **AI Architect** with a strong foundation in **Mathematics and Data Pipelines**.  
 
 ### 🔧 Skills & Tech Stack  
 - **Programming:** Python, SQL,  R, JavaScript
 - **Data Analysis & Modeling:** Predictive analytics, exploratory data analysis, statistical modeling  
-- **Infrastructure & Development:** Data pipelines, database management, AI integration  
+- **Infrastructure & Development:** Data pipelines, database management, AI integration, Web App Development  
 
 ### 📊 Projects & Experience
 - ⚡**Developed In-house server to handle SaaS** - Setup a server capable of handling 1.1million SaaS messages a day
