@@ -1,5 +1,5 @@
-#👋 Hey there! I’m Christian
-#🚀 About Me
+👋 Hey there! I’m Christian
+🚀 About Me
 
 I’m a Marketing Automation & AI Systems Builder with a background in Mathematics and Data Science, focused on designing production-grade AI workflows that drive real business outcomes.
 
